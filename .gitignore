@@ -1,0 +1,24 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Build outputs
+dist/
+build/
+htmlcov/
+coverage.xml
+
+# Data outputs
+output/*.csv
+output/*.parquet
