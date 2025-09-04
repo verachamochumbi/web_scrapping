@@ -18,7 +18,3 @@ dist/
 build/
 htmlcov/
 coverage.xml
-
-# Data outputs
-output/*.csv
-output/*.parquet
